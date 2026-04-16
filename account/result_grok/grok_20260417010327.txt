@@ -1,0 +1,24 @@
+Email: f7sv5ysh34n7@deltajohnsons.com
+Password: GI6&y@Z$wtkODI
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZDNmNjhmZmUtMWNlNC00M2QxLTg1MTAtZDQ4OGUyZjU5NDFmIn0.07PTgHjlpgY9YplPeWx-ra-1NwCbMpaBxvZbPL8kdWM
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZDNmNjhmZmUtMWNlNC00M2QxLTg1MTAtZDQ4OGUyZjU5NDFmIn0.07PTgHjlpgY9YplPeWx-ra-1NwCbMpaBxvZbPL8kdWM
+X-USERID: d3f68ffe-1ce4-43d1-8510-d488e2f5941f
+CF-CLEARANCE: fgX8v4BTpAtVh3cUtFAcKOLaE_U9pXCaBmELzmiNc9I-1776359037-1.2.1.1-Du7VRw5_2UUeN66I8pd1hlWsUACvT4LiktPNOcwL2srF7U_0u8NBuGYt3Ab8OoTBx6BtmaeW9MI41dEN9PlvHFS1tgDwl.SA4bxTCxbdbahMiSYcJJ_TsuyH3ox0LjDUkmdC1lNfrjceIKQNJnDW6dS3HyAx75S9te9x7pMZUqiyMtJrDnDVDj2YvDBIAF4eBlEysKVkI7DBCpkM9UZ69IwJ9RNL3EfVMhxo9geS4Q44G12QDPbvNbm6.4XZdCuNqysJK4vaiJwTHWfutrbtA1CSDvGB0Y0cxjrMHDHW5.joDU34lPM.oHQDOG0mUg8_TyObhNCaGwy_SvTk8F3s7g
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/f7sv5ysh34n7_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/f7sv5ysh34n7_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/f7sv5ysh34n7_deltajohnsons.com.json
+----------------------------------------
+Email: e1f6g5gkb2oz@deltajohnsons.com
+Password: tv02jVRzo!b$0n
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYjk0MDFlOGQtZGUwOC00MjgwLTkwZGMtZTlkYjc1YjEyYjZhIn0.m5NdGocpOQT-t8HFkVEHkj1q2jpxHOASAK0zgazBz7M
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYjk0MDFlOGQtZGUwOC00MjgwLTkwZGMtZTlkYjc1YjEyYjZhIn0.m5NdGocpOQT-t8HFkVEHkj1q2jpxHOASAK0zgazBz7M
+X-USERID: b9401e8d-de08-4280-90dc-e9db75b12b6a
+CF-CLEARANCE: Hg_NX8nrBVl7buXtLwh1IkFRF7uG_s8p8TsvvaGmYQY-1776359069-1.2.1.1-lvIgED7q5SbJBtvwwnWE_WfOi6GSW3UsOlSLmcjQ1TW4kPmWK4U9rGW6dhOaIdpJwcjBmWsg8aos5f4VZR2HhOSX9MGR.vSwMPtv7MMK4dxa8lPOc2XgCwJIQbIlJCcYAdBYzejb8ZOXOX37yYQ4bJKVQDm.27shFm4wWGZKMNVJ58O0F.Hf4KMOgZs9LUxQvtTp.cqUed9T0VC7LY0lFTqs4PYZRnr6d62pZ73ypHknggclkumzzidFq2wtv.cVYt4xMpeicmAT5NQcu3i.BnXKcMP84M46H9pg96VEG9YzE_V1AE1x7VpJZmRMZrMqCquABOnJbM8fTq_iXm5ruw
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/e1f6g5gkb2oz_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/e1f6g5gkb2oz_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/e1f6g5gkb2oz_deltajohnsons.com.json
+----------------------------------------
