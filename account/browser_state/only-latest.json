@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-04-21T19:18:24.495437+00:00",
+  "generated_at": "2026-04-21T19:32:21.578277+00:00",
   "has_latest": true,
   "latest": {
-    "email": "lbw0jv0p9al7@deltajohnsons.com",
-    "password": "yeNMW&0a&Yx7KN",
-    "sso": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOTY4MWRjNjUtNDM2ZS00NzlhLWIzZWMtMGVhYTU5MWUzZjYwIn0.a320A9-3m1O3Nng3bXIUhqobxGDVgB0bfR9biNmK3iw",
-    "sso_rw": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOTY4MWRjNjUtNDM2ZS00NzlhLWIzZWMtMGVhYTU5MWUzZjYwIn0.a320A9-3m1O3Nng3bXIUhqobxGDVgB0bfR9biNmK3iw",
-    "cf_clearance": "L_OukKL3BD4feBgZ8hlGwIBx3mpi03mXF0fYm_5fIsg-1776799096-1.2.1.1-eddhHBWiYqEBj74Epb.cvPJfnXbADQe1oy7BaeSovCrbwgLLFzmRQGv_ERLMfjFwryt_pLooG943dN0TK5MFwYEk3sgKsWJd40jC6xkDUOpSq547DL1QcdR0CavLhe5Ka4o0lVsU2HA3EYMKLYGTffN5eaCA3LNVanEr0e74GJaAYsgxpasU8IeNrPzk.JVa.h0.CUU.i303C6RRAUN_vPvMcXGzhjJ1UCsqfJGXkQU0gV2Y9RXIZ8F0IbvoDH7z1gIZXLsF7MMBqw4JYZRPRqpx5Fgi8J.x6BBBQtcLwpZCi05lNBUCSYPSZI2zuKhq7uW8E65hrFC2Ak5Th.8l7Q",
-    "x_userid": "9681dc65-436e-479a-b3ec-0eaa591e3f60",
+    "email": "u5gurcgt00a0@deltajohnsons.com",
+    "password": "LHJ3$&Q9Qz@4S8",
+    "sso": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYzUyNTA4OWQtYTU0Mi00Zjk0LWI2YmQtYTNhZTU1ZTVkZmI1In0.WOQfZKjuEGQp8Go_4tZgGIAZxn1iqw4fxxAvzCN2I5o",
+    "sso_rw": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYzUyNTA4OWQtYTU0Mi00Zjk0LWI2YmQtYTNhZTU1ZTVkZmI1In0.WOQfZKjuEGQp8Go_4tZgGIAZxn1iqw4fxxAvzCN2I5o",
+    "cf_clearance": "PzoztlyMfQMUbFpsq3jy8eKNQ6gswBOaSoX98zlup_0-1776799932-1.2.1.1-tVIHjHM13pYDyBiJigY_khcIGWh0sR52rXrCe1j03EwrNTHWkU8l3S9Bs311TiyDmY5hD30pmTwdZOXUA.HzBYr6bEHAcpd45SbS63qArIOC8wzUdQqlv8D7H6UEsJMFPHPsCxG01LfkhJGGK7G22g8V..pVqSdLjuiEuPs.bHGd6C3sEtT0KC9yRmlUUXwgTCIIFYeZkHGNXrdQ_1Mrv0B9ogjpKPQhC0X6s0pZQK.e.l5NGdIIlelAPs.CEyjQ_HnnjF0quzbMxOM5uYNhkT6fbDHVLj9voqIps9hy2Mhtf9cKe3FcBborbz3Z.HhF303P6wDs6nHJ8ylHdrNsFw",
+    "x_userid": "c525089d-a542-4f94-b6bd-a3ae55e5dfb5",
     "tos_ok": true,
     "nsfw_ok": true,
-    "session_file": "/home/runner/work/t/t/account/browser_state/lbw0jv0p9al7_deltajohnsons.com.json",
-    "indexed_db_file": "/home/runner/work/t/t/account/browser_state/lbw0jv0p9al7_deltajohnsons.com.json",
-    "cookies_file": "/home/runner/work/t/t/account/browser_state/lbw0jv0p9al7_deltajohnsons.com.json",
-    "saved_at": "2026-04-21T19:18:22.714994+00:00"
+    "session_file": "/home/runner/work/t/t/account/browser_state/u5gurcgt00a0_deltajohnsons.com.json",
+    "indexed_db_file": "/home/runner/work/t/t/account/browser_state/u5gurcgt00a0_deltajohnsons.com.json",
+    "cookies_file": "/home/runner/work/t/t/account/browser_state/u5gurcgt00a0_deltajohnsons.com.json",
+    "saved_at": "2026-04-21T19:32:19.828954+00:00"
   }
 }
