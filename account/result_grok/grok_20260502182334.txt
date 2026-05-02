@@ -1,0 +1,12 @@
+Email: hkt1bsb4qt6q@deltajohnsons.com
+Password: v%c@dqiWf189GQ
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMjZlZDAxM2YtNjcwNy00ZGMyLTk1ZTQtMGQzNGE1MTQ2MWE0In0.kkheV2cJDlp5-vFR1dkNMHgbIgbsplvekh6ByNTVKxc
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMjZlZDAxM2YtNjcwNy00ZGMyLTk1ZTQtMGQzNGE1MTQ2MWE0In0.kkheV2cJDlp5-vFR1dkNMHgbIgbsplvekh6ByNTVKxc
+X-USERID: 26ed013f-6707-4dc2-95e4-0d34a51461a4
+CF-CLEARANCE: ZlnT26VJeQbznz_sHTB2V6IcifQTKA2eLUjrVNr05Vc-1777717449-1.2.1.1-FSfXY07diYiMTt5u_kDRsZSCmDBCqWnNeQkB_V8Q1pdWrkBv9UXr5eUOLu6PKDOLwW52tXnmFV_Vesg3Ucw9xndAfyTInDkPDp4zuK9HU1EL1huFXd.ipKuCII.tHMlqEIFXVz9AECUPFy7YgREFOPQh_Nw.g1QbEZChdRQ3.F_9hqe173tT9yQbdjLikAnJ11PZbZ322XpMQVyu1I.Ti8jvrXG.KTdbo0UyQ_zixY9RAyI3c6SF3ppTT1IiItwxzesrcaKnxu1mTrJgaG8MkTJJ08U_1tAoI.wKoySoW_wqvDJibnjFEZBEFp7R7d53gDyhBfrkyqzyCPCoYXHhfg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/hkt1bsb4qt6q_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/hkt1bsb4qt6q_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/hkt1bsb4qt6q_deltajohnsons.com.json
+----------------------------------------
