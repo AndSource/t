@@ -1,0 +1,171 @@
+{
+  "session": {
+    "email": "660b0v0g9wla@deltajohnsons.com",
+    "password": "BOqi%Vf7DcXvOQ",
+    "sso": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMWQ2Zjk3NzktY2M0Ny00NGQwLTlkNDAtZDMwYzAxMGRlODYwIn0.ZktgFDASBVUiO7hJlceM4Fa26C0PmQkIsRoyiN16P7g",
+    "sso_rw": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMWQ2Zjk3NzktY2M0Ny00NGQwLTlkNDAtZDMwYzAxMGRlODYwIn0.ZktgFDASBVUiO7hJlceM4Fa26C0PmQkIsRoyiN16P7g",
+    "cf_clearance": "onNYDvoJlFUGayBNQgu16NO5CdacNkYN7zzcMIpVFr0-1777964179-1.2.1.1-pKYErf8gAgO1hBTE6grwUa6qnAaN9N7Nd0MY6VEQFdGLyWlI8mr2Bywo3B9NnpBKTQYSXW6bF38Vw2mZCFunDXGJK4srQl2ISRZ_x7VkwYM4CV2aW.O2JWnKbuuYYKv3scBZ15V8KHFmoBd4RTxi9Xyb5um4ZR49kM1PgiQkpUU16b3iJ.9kSInRUD6tPBC4asjmVYWtmt3edBbtyU498wVEruzCvrg.c7dTvs6xDPqfnAczMt.XD_UGR7HC_V9Gi1hZFEFBCZvhEDoVzr6DlwdRhJuAAmX3znsXCm6S07nqSuSEJYWKc8n_Jw7PAJ9kRbcIovsCUitQ_dRXFowhWg",
+    "x_userid": "1d6f9779-cc47-44d0-9d40-d30c010de860",
+    "tos_ok": true,
+    "nsfw_ok": true,
+    "cookie_names": [
+      "redirect",
+      "referrer",
+      "cf_clearance",
+      "__cf_bm",
+      "mp_0b4055a12491884bcb6f34a5aa2718b6_mixpanel",
+      "OptanonConsent",
+      "last-logged-in-with",
+      "cf_clearance",
+      "__cf_bm"
+    ],
+    "saved_at": "2026-05-05T06:56:25.636118+00:00"
+  },
+  "cookies": [
+    {
+      "name": "redirect",
+      "value": "%7B%22redirectDestination%22%3A%22grok-com%22%7D",
+      "domain": "accounts.x.ai",
+      "path": "/",
+      "expires": 1778050579.143396,
+      "size": 56,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "referrer",
+      "value": "grok-com",
+      "domain": "accounts.x.ai",
+      "path": "/",
+      "expires": 1778568979.143455,
+      "size": 16,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "cf_clearance",
+      "value": "52Wrdn1HvWddsobouxvhR4o261p8XgRZXEEYgf5BWN0-1777964160-1.2.1.1-NjpfRuUvxWnwFuLuFqZYJMShtjIidDqwDC1bEsIv9JUvbXm1tGjLgKflJ.52ruSxne6pAzeImpfsOREnyj6UGeuy2ey2taJAXu66RV7MZ.xjgbPX2V9glyo5a8o7eztJ4v8gf2LUcPeFjnBfXxxgLQ8p.3ef3jYR47IM6lb_DcRnQY1nHaTikymA8Jq0aqQgdDXopFwPGCgun3ySaKMUGTSVkj4a9hCsD5HsHe8SxT3Iy7fSizJEwOiNTmctuSRP8i6f2In0yCrc.35vYdyj6qcijBMDUBgW1.8Wk9_eP0U4gPencKEB34Nm644w8UrdhyfHFlKJ5DwYdxoUQNnChw",
+      "domain": ".x.ai",
+      "path": "/",
+      "expires": 1809500160.538163,
+      "size": 417,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443,
+      "partitionKey": {
+        "topLevelSite": "https://x.ai",
+        "hasCrossSiteAncestor": false
+      }
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Rl_oVeqCDO7IFFYnzXCAcThtzXHNNeAZ0Hvbc10zyrc-1777964160.5210147-1.0.1.1-ELIwjN460Hb3JZypaygu51z8fUSji4sHiK8HtJsqx0w46CSLBdSxNrWUJ9kcw9EDY2iciTUjpYluZ0m5rFhnPcotENBuRcaRUltOf2mzS4PA1KJ.6U0cvp36feqUUJnk",
+      "domain": ".x.ai",
+      "path": "/",
+      "expires": 1777965960.538245,
+      "size": 206,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "mp_0b4055a12491884bcb6f34a5aa2718b6_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%22%24device%3Ad700703e-b118-4ab5-b33e-dd3820efe518%22%2C%22%24device_id%22%3A%22d700703e-b118-4ab5-b33e-dd3820efe518%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+      "domain": ".x.ai",
+      "path": "/",
+      "expires": 1809500178,
+      "size": 551,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Tue+May+05+2026+06%3A56%3A01+GMT%2B0000+(Coordinated+Universal+Time)&version=202603.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Faccounts.x.ai%2Fsign-up&groups=C0001%3A1%2CC0004%3A1%2CC0002%3A1",
+      "domain": ".accounts.x.ai",
+      "path": "/",
+      "expires": 1809500161,
+      "size": 259,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "last-logged-in-with",
+      "value": "EMAIL",
+      "domain": "accounts.x.ai",
+      "path": "/",
+      "expires": 1785740179.143514,
+      "size": 24,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "Lax",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "cf_clearance",
+      "value": "onNYDvoJlFUGayBNQgu16NO5CdacNkYN7zzcMIpVFr0-1777964179-1.2.1.1-pKYErf8gAgO1hBTE6grwUa6qnAaN9N7Nd0MY6VEQFdGLyWlI8mr2Bywo3B9NnpBKTQYSXW6bF38Vw2mZCFunDXGJK4srQl2ISRZ_x7VkwYM4CV2aW.O2JWnKbuuYYKv3scBZ15V8KHFmoBd4RTxi9Xyb5um4ZR49kM1PgiQkpUU16b3iJ.9kSInRUD6tPBC4asjmVYWtmt3edBbtyU498wVEruzCvrg.c7dTvs6xDPqfnAczMt.XD_UGR7HC_V9Gi1hZFEFBCZvhEDoVzr6DlwdRhJuAAmX3znsXCm6S07nqSuSEJYWKc8n_Jw7PAJ9kRbcIovsCUitQ_dRXFowhWg",
+      "domain": ".grok.com",
+      "path": "/",
+      "expires": 1809500179.89894,
+      "size": 417,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None",
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443,
+      "partitionKey": {
+        "topLevelSite": "https://grok.com",
+        "hasCrossSiteAncestor": false
+      }
+    },
+    {
+      "name": "__cf_bm",
+      "value": "vpuryH.r6IqbCQfiDZBqvkZ45DE3czVr.18upeYW.FY-1777964179.881344-1.0.1.1-gwnUo4LshAZPAaHQS7vq4V5Le_wUXpWb_OgpSp19bgxAFbKqtd6mwqoL_gTdKaRl9dX2lFDJn7Vsumd41b3I9.YzBT5gGGmJuHyBQjrYzMBOzH9X.nB4mUckMRvXvZB_",
+      "domain": ".grok.com",
+      "path": "/",
+      "expires": 1777965979.899009,
+      "size": 205,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "priority": "Medium",
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
+  "indexed_db": {
+    "localStorage": {},
+    "sessionStorage": {},
+    "indexedDB": []
+  }
+}
