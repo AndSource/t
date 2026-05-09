@@ -1,0 +1,24 @@
+Email: 80w0l2cji0zj@wshu.net
+Password: bZZ#8q@&*yqV3o
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTM2ZTFkNmQtMjlkMS00YTFkLTg0MTItMTdiNzQ4ZmI2ZGM3In0.ZCFunwav1H4BFJc7MTeT0DeqDM9pr-GVP2U0YOt8D-I
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTM2ZTFkNmQtMjlkMS00YTFkLTg0MTItMTdiNzQ4ZmI2ZGM3In0.ZCFunwav1H4BFJc7MTeT0DeqDM9pr-GVP2U0YOt8D-I
+X-USERID: 136e1d6d-29d1-4a1d-8412-17b748fb6dc7
+CF-CLEARANCE: k1WZoDnj6FQFIc3wGSXaKar8oUhN22vWnaS52z8iboY-1778365377-1.2.1.1-nqCRUP3Xw48tCuE6aaxfBlXpabIHR60QuXR0nmQLnKQxX4qjcCQFISq68bTvYYb1LHmod_XctxNlNzsMo8lQpOhqreJBGaJlYvmPN04DjD9zoYFoyoctFwVpSpFwG6DSTs8ojQdIVjLrqjDEczJZ77Q1JD8C2irYbdNlAEJK_MF1BH0W6YshMZZLm_ElZ5_uC7TmilcDR8vPUli45CwISsL3cB6lzRiq7Qj0Col4LIbF2Fe5jpaG78WcKRXvieztUE.P1S.nRDUE51B9g7VoOIHSISKCNLxLKlCYuJfmmsZMN2wMn.nzj5d.n.efl.p6OFIdJmoJ4_5YunPuW7SSKg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/80w0l2cji0zj_wshu.net.json
+COOKIES-FILE: account/browser_state/80w0l2cji0zj_wshu.net.json
+SESSION-FILE: account/browser_state/80w0l2cji0zj_wshu.net.json
+----------------------------------------
+Email: vxgjhvvvdjzw@wshu.net
+Password: 9gEAc*N8ho*sF1
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMGNkMDk3OGEtNjVjNS00NWVlLWExM2ItYzY0ZGViYmMwY2IwIn0.Qz5CEg9EQjsb0n-Dny4kYlru_2fKpXaZ7ar8sS-ZslE
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMGNkMDk3OGEtNjVjNS00NWVlLWExM2ItYzY0ZGViYmMwY2IwIn0.Qz5CEg9EQjsb0n-Dny4kYlru_2fKpXaZ7ar8sS-ZslE
+X-USERID: 0cd0978a-65c5-45ee-a13b-c64debbc0cb0
+CF-CLEARANCE: DKP4QFFmxrBLGANrB9tliQNQNVsDM6NHVnC9X83LZYU-1778365409-1.2.1.1-vnoH8a81nDi.WPkRRU0x6ThO0TEnQ0dI5ye31QozQXL8npqd1BbVzAWaYuWgAXe62CkbrkoUEPW2eb0nNBAdjMiNBvv0IfygfNqrGO14NcZ8yA_iXw8gwn4_48WCZLbvFVZhQkFFYSUNdPJo30oBPnrZyAeErsaWHsHcv39TQFilmt3VVoqqzHb8cO4vzdsn.kJJ3XLnuLz3WgH5fDQ1eBJqzLaauuyjvoF_kuyBYGB9fDY8gQRDO.Ek0RnDChCqvOonXUVfn.N83oBxGQSCjSoYq0eqkAeS_lxPx01F0ejD67P1jWP5j_yHMh5h5jP18AQ3LVidNrAc2gtgyBRO4A
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/vxgjhvvvdjzw_wshu.net.json
+COOKIES-FILE: account/browser_state/vxgjhvvvdjzw_wshu.net.json
+SESSION-FILE: account/browser_state/vxgjhvvvdjzw_wshu.net.json
+----------------------------------------
