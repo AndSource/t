@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-05-13T07:18:22.440083+00:00",
+  "count": 1,
+  "latest_session_file": "/home/runner/work/t/t/account/browser_state/o9bs4skddtji_wshu.net.json",
+  "latest_email": "o9bs4skddtji@wshu.net",
+  "sessions": [
+    {
+      "email": "o9bs4skddtji@wshu.net",
+      "password": "@eLgWrL0lLBtI0",
+      "sso": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYjYzNDAxYzEtODMyMS00ODcyLTgwYTctOWU2MmM2YTlmZmYzIn0.oAA0T8_iZzN_XMbZFnmw9rA_rzE4e3kmi_ErOz07q88",
+      "sso_rw": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYjYzNDAxYzEtODMyMS00ODcyLTgwYTctOWU2MmM2YTlmZmYzIn0.oAA0T8_iZzN_XMbZFnmw9rA_rzE4e3kmi_ErOz07q88",
+      "cf_clearance": "3i6jfVryNGIAzqoo0Q9YmTPwG.cZxDpat3u_1xRl14I-1778656696-1.2.1.1-ZQx3f7pNnMlMMKvB7EsHSesLsFm6zPTRL6LiRhi44G9ySIoUD_outrhqAwT0JXIYeZ0jm_2qhFe7J2.v9yujCwBdwG.Eh7z0VD185Ds.8e6T2yvZ_oa5ZMYPvySf5JuWphHdseSoInr8Pcef_i7RqO8S.zSfQ8K8FtkN0JyVzVFc6z0V8WwdxmmUUFucMbS_4LuJHgwNx8Zob9i3RuaJcAA7g6s1jAlJBqwdMxH1iavoz4xmIVWzRihxHXsvALsnvfWNwPcc7G5O6lZTnuWU9Kr.3MDIM7DcJLMRVbu_XaenIBm7LLnMGVTe2bFE1bSzAEnCFi5RARSgyEHDY__AYQ",
+      "x_userid": "b63401c1-8321-4872-80a7-9e62c6a9fff3",
+      "tos_ok": true,
+      "nsfw_ok": true,
+      "session_file": "/home/runner/work/t/t/account/browser_state/o9bs4skddtji_wshu.net.json",
+      "indexed_db_file": "/home/runner/work/t/t/account/browser_state/o9bs4skddtji_wshu.net.json",
+      "cookies_file": "/home/runner/work/t/t/account/browser_state/o9bs4skddtji_wshu.net.json",
+      "saved_at": "2026-05-13T07:18:21.326951+00:00"
+    }
+  ]
+}
