@@ -1,0 +1,12 @@
+Email: 4ioou468x12x@web-library.net
+Password: Vv2E%VdPg&v0T8
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMjNjNTlkY2YtNmViZi00Yzg0LWE1MTAtZmRmOWEwMDRlZDY0In0.Mz1QC2Lg1jtSNHjgzm8ux3MwPTpklR-7-7QqcPn5faA
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMjNjNTlkY2YtNmViZi00Yzg0LWE1MTAtZmRmOWEwMDRlZDY0In0.Mz1QC2Lg1jtSNHjgzm8ux3MwPTpklR-7-7QqcPn5faA
+X-USERID: 23c59dcf-6ebf-4c84-a510-fdf9a004ed64
+CF-CLEARANCE: pp7mKmPqi4tpN9bbg9wxVj4rj3JpeDhnGeXGiRyu_Bg-1782673604-1.2.1.1-iq62hv6UEW0Ih353kg3Zdf50PT444vxDCx7PwG1CpJ_6gN5q28AhjgEesd9UmiItDwl3t3UTH35oCjvvfIpqNPFwWGQQ3.kf8mkvO7WVe5ElKWEKUQCngsT0MtbJsYxh1wJ5CMJva5G11Py9BxFVC3ytChc0hHDgnZ_KbvgnUrrXNaF83XW8KMCdYZK4Z_yHZEqvzEMJUJtjDz5rEYEygKbxZFlNxzZDC4va5WqOUwrrm2Vq.ICyuYEQuN2uZ1Ae5uvkIXISABgPnEEK2vqPKsMlvWiJ_uA_Sky97UXThqwmBfBxIRcw93j6HdhE2rLLWqGD3FxZx1Y9vA4qNTCyUA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/4ioou468x12x_web-library.net.json
+COOKIES-FILE: account/browser_state/4ioou468x12x_web-library.net.json
+SESSION-FILE: account/browser_state/4ioou468x12x_web-library.net.json
+----------------------------------------
