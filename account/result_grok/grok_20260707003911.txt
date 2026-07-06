@@ -1,0 +1,12 @@
+Email: e88ereb55zkp@web-library.net
+Password: VmvI#b!Ddb3#Ua
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZGExODMwYjAtOTU4OC00ZjgzLTg4OWUtYjE1ZTVhMzhlZDBlIn0.5NJMo5IDD-cEIKoF_IxN1wVq9oYnkp6aguTAjJ8cIKM
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZGExODMwYjAtOTU4OC00ZjgzLTg4OWUtYjE1ZTVhMzhlZDBlIn0.5NJMo5IDD-cEIKoF_IxN1wVq9oYnkp6aguTAjJ8cIKM
+X-USERID: da1830b0-9588-4f83-889e-b15e5a38ed0e
+CF-CLEARANCE: ue2MKJ8jJvcMXsGolilVqLJvRwVRWw2P3BWFxniXLWk-1783356749-1.2.1.1-ee61N6E_sCr06V12p_gVEs38M0BSX7LQ5JUNod5E2lsnrtU0n6LN5xlyKGOv7OiE6F40kgDKL_9qCuZxSdtT6xYERJi_bulOE5ytDxjUtATMdStiwUMt1ztXOhQJwpY8_UOd1yZI1OUx2zMnohTZJ4VX93mWyfq3Om18dCNDSB6H6KqhOW6gxZciBF7gADo2ZFWxLRxXrW9HNEbKnn8corHzp8CSXnqnBDVFYO.ke.PXe0FxQCwVs3CM49hqe9rQBrryaP0tBbgkJSTF5OnZz6gcw7kux72.oDhJxc2E591ebZSy4E8o4nUOcVTGoySQIQjZBRKLnX0uPG4HxgMYAg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/e88ereb55zkp_web-library.net.json
+COOKIES-FILE: account/browser_state/e88ereb55zkp_web-library.net.json
+SESSION-FILE: account/browser_state/e88ereb55zkp_web-library.net.json
+----------------------------------------
