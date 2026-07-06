@@ -1,0 +1,12 @@
+Email: n3cf8c32dvh4@web-library.net
+Password: OMAdS8nwVJk2H@
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMGFjODlkZTUtY2EzNi00M2QyLTg0MmUtOWZkNDQ5MjJlZmMyIn0.WMmgl5dpcJrKA2NKG-Tw4TYWPC4HSn-ZWVWktX5Fczk
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMGFjODlkZTUtY2EzNi00M2QyLTg0MmUtOWZkNDQ5MjJlZmMyIn0.WMmgl5dpcJrKA2NKG-Tw4TYWPC4HSn-ZWVWktX5Fczk
+X-USERID: 0ac89de5-ca36-43d2-842e-9fd44922efc2
+CF-CLEARANCE: UEYyjvraXFRgFec2F9WK13QKkuawnO35YAY0GX9zn4k-1783363251-1.2.1.1-4vW84v47fDZLZt06pzCUJBzsFw8OHu1T.cRwoKmnF2deqJ1v2mDhgBrULpCouCfLJOKzFQ5ZNdcmbsvfop1NeQm9X0az2542kqx.fJ7QidSfiNp1wl7az4t704fmkNHeKlOCGe3sPDtUvHm93W0JJDk6k4Zxi1B9DFj6AKlcn29Re0.DyjqZP248FPFFXO3y7ekBon9gkbQC00Zr3m.c74c4iBTIq7eOcG_Y9RbEXbzu_CrtCs7Zve7AAK5ZY2npntMlG7qO7VE457Dl34rFxsrurG.yGtmfinnu5YUWi42HPDoieVmTq0H0.cknAevdagn9B0sa_fOosoMzjgdKkA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/n3cf8c32dvh4_web-library.net.json
+COOKIES-FILE: account/browser_state/n3cf8c32dvh4_web-library.net.json
+SESSION-FILE: account/browser_state/n3cf8c32dvh4_web-library.net.json
+----------------------------------------
