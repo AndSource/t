@@ -1,0 +1,12 @@
+Email: 5oc6pkacipl3@web-library.net
+Password: A6g78$yya2rRdc
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiODg4ODQ4OTEtY2ZjNS00NTE0LWE0NjMtZTM4NTM4NzI3NzMwIn0.HhX0M7qupV6n2AQcX6zv2gu9G9RhOcdeNmonLHsKU4k
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiODg4ODQ4OTEtY2ZjNS00NTE0LWE0NjMtZTM4NTM4NzI3NzMwIn0.HhX0M7qupV6n2AQcX6zv2gu9G9RhOcdeNmonLHsKU4k
+X-USERID: 88884891-cfc5-4514-a463-e38538727730
+CF-CLEARANCE: s_MSHY6P2fm0_7hgldFLhcliWtMV3v8UwfMvkuyis2M-1783376425-1.2.1.1-zsXM2aA2JfAxVel5HVXbUS2QcNMYe5O9ZkyIx8nHrvmKaAKDJHEF6Jnk._2Ufdyi2Lf9auqrrobREmnIUY9gW4_pYZc9QIakETChU6nVN99BxoOhvv4SWRgenG5ETwNsXxlAD8U7mFq.M9m0xYJ49SyElotX8pNV_lmlXEx9cWzOUTLW6HqnbZ9A5WonNYp7f4BqrOATmBtU8Pi5l267pzMVa6aB3NTVmAA0352j99AHUyxCEbz5HkgNIr3m8zBtyopivjwtoFeHUwUPawc_ktvuc7Qavd_Xz_HkB06G72243eI7EuKVjKBRBF3rJeUHTzJdhETX2FpDN8lOvAm4Fw
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/5oc6pkacipl3_web-library.net.json
+COOKIES-FILE: account/browser_state/5oc6pkacipl3_web-library.net.json
+SESSION-FILE: account/browser_state/5oc6pkacipl3_web-library.net.json
+----------------------------------------
